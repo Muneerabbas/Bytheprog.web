@@ -1,0 +1,56 @@
+@media (max-width: 1220px) {
+    main .main-items{
+        margin-right: 6rem;
+        margin-left:15rem;
+      }
+
+      main h2 {
+        font-size: 4rem;
+      }
+      
+}
+
+@media (max-width: 747px) {
+    main .main-items{
+        margin-right: 1rem;
+        margin-left:10rem;
+      }
+      
+      main h2 {
+        font-size: 3rem;
+      }
+      
+      main p {
+        font-size: 1rem;
+      }
+      
+      main p b {
+        font-size: 1.2rem;
+      }
+      
+}
+
+@media (max-width: 432px) {
+    main .main-items{
+        margin-right: 1rem;
+        margin-left:3rem;
+      }
+      
+      main p a{
+        font-size: 1rem;
+      }
+      
+      main h2 {
+        font-size: 4em;
+      }
+      
+      main p {
+        font-size: 0.9rem;
+        width: 85%;
+      }
+      
+      main p b {
+        font-size: 1.2rem;
+      }
+}
+
