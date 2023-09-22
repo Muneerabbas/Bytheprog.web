@@ -3,6 +3,7 @@
   padding: 0;
   text-decoration: none !important;
   list-style: none;
+  scroll-behavior: smooth;
 }
 
 ::-webkit-scrollbar{
